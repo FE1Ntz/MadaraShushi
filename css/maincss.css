@@ -1,0 +1,68 @@
+@import url('https://fonts.googleapis.com/css2?family=Fira+Sans:wght@700&display=swap');
+.header
+{
+    display: flex;
+}
+.ham
+{
+    background-color: #ffffff;
+    width: 90px;
+    height: 90px;
+}
+.hamico
+{
+    padding-left: 15px;
+    padding-top: 15px;
+}
+.bar
+{
+    width: 100%;
+    height: 90px;
+    background-color: #fe5f71;
+    display: flex;
+}
+
+.logo
+{
+    height: 100%;
+    padding-left: 10px;
+}
+.logotext
+{
+    color: #ffffff;
+    font-family: 'Fira Sans', sans-serif;
+    font-size: 250%;
+    line-height: 80%;
+    padding-top: 15px;
+    margin-left: -5px;
+}
+.basket
+{
+    background-color: #fe5f71;
+    width: 90px;
+}
+
+.basketico
+{
+    padding-top: 10px;
+    padding-left: 15px;
+    height: 75px;
+}
+
+.menu
+{
+    background-color: #fe5f71;
+    width: 90px;
+    height: 1000px;
+}
+.menuico
+{
+    padding-left: 15px;
+    height: 60px;
+}
+
+.dishes
+{
+    padding-top: 40px;
+}
+
